@@ -2,9 +2,9 @@
 <br>
 TSA 1
 
-1. Prediction using Supervised ML
-Linear Regression with Python Scikit Learn (Level - Beginner)
-● Predict the percentage of an student based on the no. of study hours.
+1. Prediction using Supervised ML<br>
+Linear Regression with Python Scikit Learn (Level - Beginner)<br>
+● Predict the percentage of an student based on the no. of study hours.<br>
 
 <br>
 TSF 2
