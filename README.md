@@ -9,6 +9,6 @@ Linear Regression with Python Scikit Learn (Level - Beginner)<br>
 <br>
 TSF 2
 
-2. Prediction using Unsupervised ML
-K- Means Clustering (Level - Beginner)
-● From the ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+2. Prediction using Unsupervised ML<br>
+K- Means Clustering (Level - Beginner)<br>
+● From the ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.<br>
