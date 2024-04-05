@@ -7,17 +7,14 @@
 
 Linear Regression with Python Scikit Learn (Level - Beginner)
 
-
 Task Description:
 
 Predict the percentage of a student based on the number of study hours.
 
 
-
 Dataset:
 
 The dataset student_scores_student_scores.csv contains two columns: Hours (number of study hours) and Scores (percentage score).
-
 
 
 Steps:
@@ -33,7 +30,6 @@ Steps:
 9. Evaluating the model using mean absolute error.
 
    
-
 Required Libraries:
 
 - pandas
@@ -41,7 +37,6 @@ Required Libraries:
 - matplotlib
 - sklearn
   
-
 
 Prediction:
 
