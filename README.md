@@ -4,8 +4,7 @@
 # TSA 1
 
 # Prediction using Supervised ML
-
-Linear Regression with Python Scikit Learn (Level - Beginner)
+# Linear Regression with Python Scikit Learn (Level - Beginner)
 
 Task Description:
 
